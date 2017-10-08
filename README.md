@@ -20,10 +20,10 @@ Several constraints were placed on the selection of these instances from a large
 8. Age (years) 
 9. Class variable (0 or 1)
 
-The reformatted data set csv used in the project can be found ![here](https://github.com/DevSurya/Pima-Diabetes-Prediction/tree/master/data).
+#### The reformatted data set csv used in the project can be found <a href="https://github.com/DevSurya/Pima-Diabetes-Prediction/tree/master/data/Adam-DAngelo">here</a>
 
 ## .. ML Algorithim
 Entire prdeicition model is written with Python3 and Jupyter Notebook.
 used python lib : pandas, numpy , matplot-lib , scikit.
 
-Entire notebook source in ![pdf here](https://github.com/DevSurya/Pima-Diabetes-Prediction/blob/master/Resources/Pima_Indian_Diabetes_Prediction.pdf).
+#### Entire notebook source in [pdf here](https://github.com/DevSurya/Pima-Diabetes-Prediction/blob/master/Resources/Pima_Indian_Diabetes_Prediction.pdf)
